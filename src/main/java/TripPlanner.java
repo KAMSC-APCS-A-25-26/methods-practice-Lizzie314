@@ -60,6 +60,6 @@ public class TripPlanner
         System.out.printf("%.2f",fuel);
         System.out.println(" gallons");
         System.out.print("Trip Cost: $");
-        System.out.printf("%.2f",cost);
+        System.out.printf("%.2f",cost);   
     }
 }
